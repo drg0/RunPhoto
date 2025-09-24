@@ -1,16 +1,48 @@
 
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
-    <title>2025 Garmin Run 亞洲系列賽 - 台北站 相片下載 | 好拍入口</title>
+    <title>2025 Garmin Run 亞洲系列賽 - 台北站 相片下載 | RunPhoto 相片整合</title>
     <meta name="description" content="📷 2025 Garmin Run 亞洲系列賽 - 台北站 的官方活動相片下載入口，點擊進入好拍相簿查看完整照片。">
     <meta name="keywords" content="2025 Garmin Run 亞洲系列賽 - 台北站, 活動相片, 照片下載, 路跑, 好拍 GoodShot, Garmin Run">
     <meta name="author" content="攝影師團隊">
+
+    <!-- Open Graph (FB/LINE/Twitter 分享) -->
+    <meta property="og:title" content="2025 Garmin Run 亞洲系列賽 - 台北站 相片下載 | RunPhoto 相片整合">
+    <meta property="og:description" content="📷 2025 Garmin Run 亞洲系列賽 - 台北站 的官方活動相片下載入口，點擊進入好拍相簿查看完整照片。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://drg0.github.io/runphoto-site/garmin_run_taipei.html">
+    <meta property="og:image" content="https://drg0.github.io/runphoto-site/assets/sample.jpg">
+
+    <!-- 結構化資料 JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "2025 Garmin Run 亞洲系列賽 - 台北站 相片下載",
+      "startDate": "2025-09-21",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventCompleted",
+      "location": {
+        "@type": "Place",
+        "name": "台北",
+        "address": "台灣"
+      },
+      "image": "https://drg0.github.io/runphoto-site/assets/sample.jpg",
+      "description": "📷 2025 Garmin Run 亞洲系列賽 - 台北站 的官方活動相片下載入口，點擊進入好拍相簿查看完整照片。",
+      "organizer": {
+        "@type": "Organization",
+        "name": "好拍 GoodShot",
+        "url": "https://goodshot.com.tw"
+      }
+    }
+    </script>
 </head>
 <body>
     <h1>2025 Garmin Run 亞洲系列賽 - 台北站 相片下載</h1>
     <p>📅 活動日期：2025-09-21</p>
+    <p>📍 活動地點：台北</p>
     <p>📷 相片已上傳至 <strong>好拍 GoodShot</strong> 平台，請點擊下方連結進入相簿：</p>
 
     <p><a href="https://goodshot.com.tw/competitions/109/competitionPG?competitionTitle=2025%20Garmin%20Run%20%E4%BA%9E%E6%B4%B2%E7%B3%BB%E5%88%97%E8%B3%BD%20-%20%E8%87%BA%E5%8C%97%E7%AB%99" target="_blank">👉 點此查看 2025 Garmin Run 亞洲系列賽 - 台北站 照片</a></p>
