@@ -16,7 +16,7 @@
 </head>
 <body>
   <header>
-    <h1>🏃 RunPhoto 活動相片整合</h1>
+    <h1>🏃 馬拉松路跑活動相片整合</h1>
     <p>快速找到最新馬拉松活動相片</p>
   </header>
 
