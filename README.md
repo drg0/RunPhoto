@@ -1,23 +1,34 @@
-
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-TW">
 <head>
-    <meta charset="UTF-8">
-    <title>2025 Garmin Run 亞洲系列賽 - 台北站 相片下載 | 好拍入口</title>
-    <meta name="description" content="📷 2025 Garmin Run 亞洲系列賽 - 台北站 的官方活動相片下載入口，點擊進入好拍相簿查看完整照片。">
-    <meta name="keywords" content="2025 Garmin Run 亞洲系列賽 - 台北站, 活動相片, 照片下載, 路跑, 好拍 GoodShot, Garmin Run">
-    <meta name="author" content="攝影師團隊">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RunPhoto 活動相片整合</title>
+  <meta name="description" content="整合好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
+  <link rel="stylesheet" href="assets/style.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="RunPhoto 活動相片整合">
+  <meta property="og:description" content="整合好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://drg0.github.io/runphoto-site/">
+  <meta property="og:image" content="https://drg0.github.io/runphoto-site/assets/sample.jpg">
 </head>
 <body>
-    <h1>2025 Garmin Run 亞洲系列賽 - 台北站 相片下載</h1>
-    <p>📅 活動日期：2025-09-21</p>
-    <p>📷 相片已上傳至 <strong>好拍 GoodShot</strong> 平台，請點擊下方連結進入相簿：</p>
+  <header>
+    <h1>🏃 RunPhoto 活動相片整合</h1>
+    <p>快速找到最新馬拉松活動相片</p>
+  </header>
 
-    <p><a href="https://goodshot.com.tw/competitions/109/competitionPG?competitionTitle=2025%20Garmin%20Run%20%E4%BA%9E%E6%B4%B2%E7%B3%BB%E5%88%97%E8%B3%BD%20-%20%E8%87%BA%E5%8C%97%E7%AB%99" target="_blank">👉 點此查看 2025 Garmin Run 亞洲系列賽 - 台北站 照片</a></p>
+  <main>
+    <h2>📅 最新活動</h2>
+    <ul>
+      <li><a href="garmin_run_taipei.html">2025 Garmin Run 亞洲系列賽 - 台北站 相片</a></li>
+    </ul>
+  </main>
 
-    <hr>
-    <footer>
-        <p>本頁由攝影師自動生成，用於搜尋引擎收錄與參賽者方便搜尋。</p>
-    </footer>
+  <footer>
+    <p>© 2025 RunPhoto 攝影師相片資源整理</p>
+  </footer>
 </body>
 </html>
