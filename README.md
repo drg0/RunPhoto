@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="assets/style.css">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="RunPhoto 活動相片整合">
+  <meta property="og:title" content="馬拉松路跑活動相片整合">
   <meta property="og:description" content="整合好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://drg0.github.io/runphoto-site/">
