@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RunPhoto 活動相片整合</title>
+  <title>馬拉松路跑活動相片整合</title>
   <meta name="description" content="整合好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
   <link rel="stylesheet" href="assets/style.css">
 
