@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
        RunPhoto 活動相片整合
-  <meta name="description" content="整合好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
+  <meta name="description" content="好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
   <link rel="stylesheet" href="assets/style.css">
 
   <!-- Open Graph -->
   <meta property="og:title" content="RunPhoto 活動相片整合">
-  <meta property="og:description" content="整合好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
+  <meta property="og:description" content="好拍、瘋迷、Zsport、捷安等平台，快速找到最新的馬拉松活動相片。">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://drg0.github.io/runphoto-site/">
   <meta property="og:image" content="https://drg0.github.io/runphoto-site/assets/sample.jpg">
