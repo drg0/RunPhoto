@@ -26,7 +26,9 @@
       <li><a href="garmin_run_taipei.html">2025 Garmin Run 亞洲系列賽 - 台北站 相片</a></li>
         <p>📅 活動日期：2025-09-21</p>
       <li><a href="2025奧林匹克路跑.html">2025奧林匹克路跑</a></li>
+      <p>📅 活動日期：2025-09-20</p>
       <li><a href="panasonic_taipei_run.html">2025 Panasonic 台北城市路跑賽</a></li>
+      <p>📅 活動日期：2025-09-14</p>
     </ul>
   </main>
 
