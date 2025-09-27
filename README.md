@@ -11,7 +11,7 @@
         header { text-align: center; padding: 20px; background: #16b5e0; color: white; border-radius: 10px; }
         h1 { margin: 0; }
         .activity-list { margin: 30px auto; max-width: 800px; }
-        .activity { width: 100%; margin: 10px 0; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; }
+        .activity { width: 100%; margin: 10px 0; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; background: white; }
         .activity:hover { transform: scale(1.02); }
         .recent { background: #e0f7fa; }
         .past { background: #ffffff; }
@@ -21,6 +21,15 @@
         .activity p { margin: 5px 0; color: #555; font-size: 0.9em; }
         .section-title { font-size: 1.3em; margin: 20px 0 10px; color: #333; font-weight: bold; }
         footer { text-align: center; margin-top: 50px; font-size: 14px; color: #777; }
+
+        /* 📱 手機優化 */
+        @media (max-width: 600px) {
+            body { margin: 10px; }
+            header { padding: 15px; font-size: 0.9em; }
+            .activity h2 { font-size: 1em; }
+            .activity p { font-size: 0.8em; }
+            .section-title { font-size: 1.1em; }
+        }
     </style>
 </head>
 <body>
