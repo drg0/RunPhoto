@@ -3,8 +3,8 @@
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
-    <title>RunPhoto | 馬拉松·路跑相片入口</title>
-    <meta name="description" content="RunPhoto 好拍、瘋迷、Zsport、捷安 4 大平台相片入口，快速找到最新馬拉松與路跑活動照片。">
+    <title>RunPhoto | 馬拉松、路跑、自行車、單車、歡樂路跑、半馬、全馬與鐵人三項</title>
+    <meta name="description" content="RunPhoto 好拍、瘋迷、Zsport、捷安 ，快速找到最新馬拉松與路跑活動照片。">
     <meta name="keywords" content="馬拉松相片, 路跑相片, Garmin Run, 瘋迷, 好拍, Zsport, 捷安, 活動照片下載">
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; background: #f9f9f9; }
@@ -24,8 +24,8 @@
 </head>
 <body>
     <header>
-        <h1>🏃 RunPhoto | 馬拉松·路跑相片入口</h1>
-        <p>快速找到最新活動相片，好拍、瘋迷、Zsport、捷安</p>
+        <h1>🏃 RunPhoto | 馬拉松、路跑、自行車、單車、歡樂路跑、半馬、全馬與鐵人三項</h1>
+        <p>快速找到最新活動相片</p>
     </header>
     <div class="activity-list">
 <div class="section-title">🔥 近期活動</div>
