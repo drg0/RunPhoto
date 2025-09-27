@@ -21,6 +21,11 @@
         <h1>🏃 RunPhoto | 馬拉松·路跑相片入口</h1>
         <p>快速找到最新活動相片，好拍、瘋迷、Zsport、捷安</p>
     </header>
+    <div class="activity-list">
+        <div class="activity">
+            <h2><a href="2025 TOUR OF GRAND TAIPEI.html">2025 TOUR OF GRAND TAIPEI 環大臺北自行車挑戰
+</a></h2>
+            <p>📅 活動日期：2025-09-27</p>
 
     <div class="activity-list">
         <div class="activity">
