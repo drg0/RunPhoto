@@ -3,29 +3,31 @@
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
-    <title>RunPhoto | 馬拉松、路跑、自行車、單車、歡樂路跑、半馬、全馬與鐵人三項</title>
-    <meta name="description" content="RunPhoto 好拍、瘋迷、Zsport、捷安 ，快速找到最新馬拉松與路跑活動照片。">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RunPhoto | 馬拉松、路跑、自行車、單車、鐵人三項活動照片入口</title>
+    <meta name="description" content="RunPhoto | 好拍、瘋迷、Zsport、捷安 — 快速找到最新馬拉松、路跑、自行車、鐵人三項活動照片。">
     <meta name="keywords" content="馬拉松相片, 路跑相片, Garmin Run, 瘋迷, 好拍, Zsport, 捷安, 活動照片下載">
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; background: #f9f9f9; }
         header { text-align: center; padding: 20px; background: #16b5e0; color: white; border-radius: 10px; }
         h1 { margin: 0; }
         .activity-list { margin: 30px auto; max-width: 800px; }
-        .activity { width: 100%; margin: 10px 0; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+        .activity { width: 100%; margin: 10px 0; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; }
+        .activity:hover { transform: scale(1.02); }
         .recent { background: #e0f7fa; }
         .past { background: #ffffff; }
-        .activity h2 { margin: 0 0 10px; }
+        .activity h2 { margin: 0 0 10px; font-size: 1.2em; }
         .activity h2 a { color: #16b5e0; text-decoration: none; }
         .activity h2 a:hover { text-decoration: underline; }
         .activity p { margin: 5px 0; color: #555; font-size: 0.9em; }
-        .section-title { font-size: 1.2em; margin: 20px 0 10px; color: #333; }
+        .section-title { font-size: 1.3em; margin: 20px 0 10px; color: #333; font-weight: bold; }
         footer { text-align: center; margin-top: 50px; font-size: 14px; color: #777; }
     </style>
 </head>
 <body>
     <header>
-        <h1>🏃 RunPhoto | 馬拉松、路跑、自行車、單車、歡樂路跑、半馬、全馬與鐵人三項</h1>
-        <p>快速找到最新活動相片</p>
+        <h1>🏃 RunPhoto 活動相片入口</h1>
+        <p>快速找到最新活動照片 — 好拍、瘋迷、Zsport、捷安</p>
     </header>
     <div class="activity-list">
 <div class="section-title">🔥 近期活動</div>
