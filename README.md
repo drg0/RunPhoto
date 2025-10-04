@@ -7,10 +7,8 @@
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="好拍goodshot">
   <meta name="referrer" content="no-referrer">
-  <meta name="description" content="好拍GoodShot除了提供您最美麗的照片，也給您更多元、更安全的支付方式。Goodshot,好拍,追焦照,照片共享平台,路跑照片,路跑攝影,馬拉松照片,馬拉松攝影,運動攝影,運動照片,賽跑攝影,賽跑照片">
-  
+  <meta name="description" content="專業活動相片平台 / 行動傳感 / 找照片,追焦照,照片共享平台,路跑照片,路跑攝影,馬拉松照片,馬拉松攝影,運動攝影,運動照片,賽跑攝影,賽跑照片">
   <title>好拍gooodshot</title>
-
   <link rel="stylesheet" type="text/css" href="./style/addtohomescreen.css">
   <script src="./src/addtohomescreen.js"></script>
 
@@ -33,7 +31,6 @@
   <link href="/css/chunk-vendors.4ff7e0da.css" rel="stylesheet">
   <link href="/css/app.d82e08ea.css" rel="stylesheet">
 </head>
-<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
